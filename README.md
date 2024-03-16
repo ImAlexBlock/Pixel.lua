@@ -1,2 +1,2 @@
 # Pixel.lua
-一个的StylesClient脚本
+一个StylesClient脚本
